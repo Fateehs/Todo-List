@@ -20,7 +20,7 @@ This project helps you organize your to-dos.
 * Add Local Storage to your structure and ensure that data is not lost.
 
 ## Demo
-![](https://github.com/Todo-List/todolist.gif)
+![](https://github.com/Fateehs/Todo-List/todolist.gif)
 
 
 #### ATTENTION
